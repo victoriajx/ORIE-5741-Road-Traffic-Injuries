@@ -1,1 +1,5 @@
-# ORIE-5741-Road-Traffic-Injuries
+# 2019 Road Traffic Injuries
+
+ORIE 5741: Learning with Big Messy Data
+
+Group members: Alvaro Echevarria Cuesta (AE356); Jingxin Mao (JM2379); Xueying Liu (XL477)
