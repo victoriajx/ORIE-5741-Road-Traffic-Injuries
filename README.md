@@ -1,5 +1,5 @@
 # Road Traffic Injuries Analysis
 
-Group members: Alvaro Echevarria Cuesta (AE356); Jingxin Mao (JM2379); Xueying Liu (XL477)
+Group members: Jingxin Mao (JM2379); Sharon Liu (XL477); Alvaro Echevarria Cuesta (AE356)
 
-Project presentation Recording: https://youtu.be/AAAb1uu_OFQ (Restricted to cornell email addresses)
+Project presentation Recording: https://youtu.be/AAAb1uu_OFQ (Restricted to **cornell email addresses**)
